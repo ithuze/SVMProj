@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">SVMProj</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="Action">
+        <item>未知</item>
+        <item>站立</item>
+        <item>小动作</item>
+        <item>走路</item>
+        <item>跑步</item>
+        <item>上楼梯</item>
+        <item>下楼梯</item>
+        <item>上扶梯</item>
+        <item>下扶梯</item>
+        <item>上电梯</item>
+        <item>下电梯</item>
+        <item>坐着与休息</item>
+        <item>看电视</item>
+        <item>拉伸运动</item>
+        <item>洗衣服</item>
+        <item>叠衣服</item>
+        <item>刷牙</item>
+        <item>力量训练</item>
+        <item>打扫卫生</item>
+        <item>躺着放松</item>
+        <item>坐起</item>
+    </array>
+
+    <array name="Position">
+        <item>未知</item>
+        <item>手持不动</item>
+        <item>手持摇摆</item>
+        <item>裤子口袋</item>
+        <item>后兜</item>
+        <item>外套口袋</item>
+        <item>胸口口袋</item>
+        <item>肩包</item>
+        <item>臂包</item>
+        <item>手包</item>
+        <item>腰包</item>
+        <item>背带</item>
+    </array>
+
+    <array name="HZ">
+        <item>SENSOR_DELAY_FASTEST</item>
+        <item>SENSOR_DELAY_GAME</item>
+        <item>SENSOR_DELAY_UI</item>
+        <item>SENSOR_DELAY_NORMAL</item>
+    </array>
+</resources>
