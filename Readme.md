@@ -1,4 +1,4 @@
-# SVMProj
+# WalkingorRunning
 #中科院机器学习-步态分析器
 ###My first APP in my life.
 
