@@ -4,3 +4,4 @@
 
 
 ![cmd-markdown-logo](https://github.com/ithuze/SVMProj/blob/master/shots/a1.png)
+![cmd-markdown-logo](https://github.com/ithuze/SVMProj/blob/master/shots/a2.png)
