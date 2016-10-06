@@ -1,6 +1,6 @@
 # SVMProj
 #中科院机器学习-步态分析器
-  My first APP in my life.
+###My first APP in my life.
 
 
 ![cmd-markdown-logo](https://github.com/ithuze/SVMProj/blob/master/shots/a1.png)
